@@ -55,3 +55,7 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+Assets/Plugins/iOS/libgvrunity.a
+
+Assets/Plugins/iOS/libgvrunity.a.meta
